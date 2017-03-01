@@ -1,0 +1,4 @@
+Camera calibration is the process of estimating the parameters of the lens and the image sensor. These parameters are needed to measure objects captured by the camera.
+
+Link-
+http://in.mathworks.com/help/vision/examples/measuring-planar-objects-with-a-calibrated-camera.html

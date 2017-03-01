@@ -1,0 +1,3 @@
+Requirement-MATLAB 2015.
+Add path corresponding to input images in code.
+First we are training code over 14 images and then testing it for image 15.
